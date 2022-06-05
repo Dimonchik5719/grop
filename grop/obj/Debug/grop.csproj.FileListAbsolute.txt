@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\grop\grop\bin\Debug\grop.exe.config
+C:\Users\Дмитрий\source\repos\grop\grop\bin\Debug\grop.exe
+C:\Users\Дмитрий\source\repos\grop\grop\bin\Debug\grop.pdb
+C:\Users\Дмитрий\source\repos\grop\grop\obj\Debug\grop.Form1.resources
+C:\Users\Дмитрий\source\repos\grop\grop\obj\Debug\grop.Form2.resources
+C:\Users\Дмитрий\source\repos\grop\grop\obj\Debug\grop.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\grop\grop\obj\Debug\grop.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\grop\grop\obj\Debug\grop.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\grop\grop\obj\Debug\grop.exe
+C:\Users\Дмитрий\source\repos\grop\grop\obj\Debug\grop.pdb
